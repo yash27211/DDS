@@ -1,6 +1,6 @@
 {
-  "name": "Entry Log",
-  "short_name": "Log",
+  "name": "Doon Divine Society Entry Log",
+  "short_name": "DDS Log",
   "description": "App to log mobile numbers, names, and car numbers",
   "start_url": "/index.html",
   "display": "standalone",
